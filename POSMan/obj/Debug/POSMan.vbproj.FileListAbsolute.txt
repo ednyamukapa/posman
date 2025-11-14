@@ -1,0 +1,17 @@
+c:\users\captain\documents\visual studio 2013\Projects\POSMan\POSMan\bin\Debug\POSMan.exe.config
+c:\users\captain\documents\visual studio 2013\Projects\POSMan\POSMan\bin\Debug\POSMan.exe
+c:\users\captain\documents\visual studio 2013\Projects\POSMan\POSMan\bin\Debug\POSMan.pdb
+c:\users\captain\documents\visual studio 2013\Projects\POSMan\POSMan\bin\Debug\POSMan.xml
+c:\users\captain\documents\visual studio 2013\Projects\POSMan\POSMan\bin\Debug\Guna.UI2.dll
+c:\users\captain\documents\visual studio 2013\Projects\POSMan\POSMan\obj\Debug\POSMan.splashScreen.resources
+c:\users\captain\documents\visual studio 2013\Projects\POSMan\POSMan\obj\Debug\POSMan.Resources.resources
+c:\users\captain\documents\visual studio 2013\Projects\POSMan\POSMan\obj\Debug\POSMan.vbproj.GenerateResource.Cache
+c:\users\captain\documents\visual studio 2013\Projects\POSMan\POSMan\obj\Debug\POSMan.exe
+c:\users\captain\documents\visual studio 2013\Projects\POSMan\POSMan\obj\Debug\POSMan.xml
+c:\users\captain\documents\visual studio 2013\Projects\POSMan\POSMan\obj\Debug\POSMan.pdb
+c:\users\captain\documents\visual studio 2013\Projects\POSMan\POSMan\obj\Debug\POSMan.adminDashboard.resources
+c:\users\captain\documents\visual studio 2013\Projects\POSMan\POSMan\obj\Debug\POSMan.login.resources
+C:\Users\CAPTAIN\Documents\Visual Studio 2013\Projects\POSMan\POSMan\obj\Debug\POSMan.vbprojResolveAssemblyReference.cache
+C:\Users\CAPTAIN\documents\visual studio 2013\Projects\POSMan\POSMan\obj\Debug\POSMan.userDashboard.resources
+C:\Users\CAPTAIN\documents\visual studio 2013\Projects\POSMan\POSMan\obj\Debug\POSMan.Signup.resources
+C:\Users\CAPTAIN\Documents\Visual Studio 2013\Projects\POSMan\POSMan\bin\Debug\posman.Accdb
